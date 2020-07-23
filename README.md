@@ -26,4 +26,3 @@ The goal is to rank papers parsing from [google scholar](https://scholar.google.
 
 ## Prerequisites
 - Python 3.6
-- Keras 2.2.4
